@@ -68,7 +68,7 @@ h1 {
 
 .highlight {
   background-color: #fff6cc !important;
-  border: 2px solid #ffc107;
+  /* border: 2px solid #ffc107; */
 }
 
 .button-group {
